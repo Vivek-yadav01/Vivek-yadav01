@@ -17,7 +17,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  margin="40px" src="https://github-profile-trophy.vercel.app/?username=vivek-yadav01" alt="vivek-yadav01" /></a> </p>
 
 
 
@@ -34,5 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-yadav01&show_icons=true&locale=en&layout=compact" alt="vivek-yadav01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-yadav01&show_icons=true&locale=en" alt="vivek-yadav01" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  margin="40px" src="https://github-profile-trophy.vercel.app/?username=vivek-yadav01" alt="vivek-yadav01" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-yadav01&" alt="vivek-yadav01" /></p>
