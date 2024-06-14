@@ -3,7 +3,7 @@
 <div display="flex" column-direction="row">
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently working on **TimeSavor**
+- 🔭 I’m currently working on **ML Projects**
 
 - 🌱 I’m currently learning **Nextjs**
 
