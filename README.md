@@ -3,11 +3,7 @@
 <div display="flex" column-direction="row">
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🔭 I’m currently working on **ML Projects**
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 💬 Ask me about **React**
+- 🔭 I’m in **Learning Mode**
 
 - 📫 How to reach me **vivek01nitj@gmail.com**
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=vivek-yadav01&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-yadav01" /> </p>
